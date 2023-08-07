@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
     <h1 align="center">Hi there👋, I'm Ch3chS</h1>
     <h3 align="center">A Software Engineer student at Universidad de Santiago de Chile</h3>
-    <h3 align="center">📫 How to reach me: **sergio.espinoza.g@usach.cl**</h3>
+    <h3 align="center">📫 How to reach me: sergio.espinoza.g@usach.cl</h3>
 </div>
 ---
 
